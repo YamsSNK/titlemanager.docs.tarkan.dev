@@ -127,16 +127,16 @@ player-list:
 
 # Sets the title that is sent to the player when they join the server.
 
-welcome-title:
+welcome-title: VIKING AGE
 
   # Toggles this feature.
   enabled: true
 
   # The title shown.
-  title: 'Welcome to My Server'
+  title: 'Bienvenid@s Aventurer@s'
 
   # The subtitle shown.
-  subtitle: 'Hope you enjoy your stay'
+  subtitle: 'se un vikingo'
 
   # The time it takes for the title to fade into the screen. (In ticks)
   fade-in: 20
@@ -151,10 +151,10 @@ welcome-title:
   first-join:
 
     # The title shown.
-    title: 'Welcome to My Server'
+    title: 'Bienvenid@s Aventurer@s a VIKING EGE'
 
     # The subtitle shown.
-    subtitle: 'This is your first time!'
+    subtitle: ' Esto es VIKING AGE!'
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -164,13 +164,13 @@ welcome-title:
 
 # Sets the actionbar that is sent to the player when they join the server.
 
-welcome-actionbar:
+welcome-actionbar:Bienvenid@s Aventurer@s
 
   # Toggles this feature.
   enabled: true
 
   # The message shown.
-  title: 'Welcome to My Server'
+  title: 'Bienvenidos a VIKING AGE'
 
   # The message shown when the player joins the server for the first time.
   first-join: 'Welcome to My Server, this is your first time!'
@@ -206,7 +206,7 @@ placeholders:
 
 # Sets the scoreboard (sidebar) that is sent to the player
 
-scoreboard:
+scoreboard:VIKING AGE
 
   # Toggles this feature
   enabled: true
@@ -238,7 +238,7 @@ scoreboard:
 
 # Automatically send titles and/or actionbar messages to the players on the server.
 
-announcer:
+announcer:Bienvenid@s Aventurer@s
 
   # Toggles this feature.
   enabled: true
@@ -281,7 +281,7 @@ announcer:
 
 # Configures all of the messages sent to the users.
 
-messages:
+messages:Bienvenid@s Aventurer@s
 
   # The messages from the command /tm version
   command-version:
