@@ -127,16 +127,16 @@ player-list:
 
 # Sets the title that is sent to the player when they join the server.
 
-welcome-title:
+welcome-title:Bienvenid@s Aventurer@s
 
   # Toggles this feature.
   enabled: true
 
   # The title shown.
-  title: 'Welcome to My Server'
+  title: 'VIKING AGE'
 
   # The subtitle shown.
-  subtitle: 'Hope you enjoy your stay'
+  subtitle: 'Vive y se un VIKINGO'
 
   # The time it takes for the title to fade into the screen. (In ticks)
   fade-in: 20
@@ -150,11 +150,10 @@ welcome-title:
   # The title shown when the player joins the server for the first time.
   first-join:
 
-    # The title shown.
-    title: 'Welcome to My Server'
+    # The title shown.r
+    title: 'Bienvenid@s Aventurer@s'
 
     # The subtitle shown.
-    subtitle: 'This is your first time!'
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -164,16 +163,16 @@ welcome-title:
 
 # Sets the actionbar that is sent to the player when they join the server.
 
-welcome-actionbar:
+welcome-actionbar:Bienvenid@s Aventurer@s
 
   # Toggles this feature.
   enabled: true
 
   # The message shown.
-  title: 'Welcome to My Server'
+  title: 'Bienvenid@s Aventurer@s'
 
   # The message shown when the player joins the server for the first time.
-  first-join: 'Welcome to My Server, this is your first time!'
+  first-join: 'Bienvenid@s Aventurer@s a VIKING AGE, Vive y se un VIKINGO!'
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -213,7 +212,7 @@ scoreboard:
 
   # The title displayed at the very top of the scoreboard
   # The title must consist of 32 or less characters (this includes color codes)
-  title: '${shine:[0;2;0][0;25;0][0;25;0][&3&l;&b&l]My Server}'
+  title: '${shine:[0;2;0][0;25;0][0;25;0][&3&l;&b&l]VIKING AGE}'
 
   # The lines of the scoreboard (Maximum of 15 lines allowed)
   # Each line can only have 40 characters (this includes color codes)
